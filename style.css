@@ -1,0 +1,59 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+.container {
+	justify-content: center;
+	margin: 0 auto;
+}
+
+.title {
+	font-size: 80px;
+	font-family: 'Bebas Neue', cursive;
+	justify-content: center;
+	text-align: center;
+}
+
+.cobalt {
+	color: #1b3e7e;
+}
+
+.bg-cobalt {
+	background-color: #1b3e7e;
+}
+
+.btn-add {
+	color: white;
+}
+
+.header {
+	margin-top: 8rem;
+	margin-bottom: 4rem;
+}
+
+.list-group {
+	border: none;
+}
+
+.list-group-item {
+	margin: 0;
+	margin-bottom: 0;
+	padding-left: 0;
+}
+
+.cta {
+	height: calc(1.5em + .75rem + 2px);
+	text-align: center;
+	vertical-align: middle;
+	padding: .375rem .75rem;
+	margin-bottom: .5rem;
+}
+
+.form-control {
+ 	height: 48px;
+}
+
+
+.btn-outline-info:hover {
+	background-color: #1b3e7e;
+}
